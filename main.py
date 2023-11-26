@@ -25,9 +25,3 @@ expander2 = st.expander('問い合わせ２')
 expander2.write('問い合わせ２の解答')
 expander3 = st.expander('問い合わせ３')
 expander3.write('問い合わせ３の解答')
-
-# text = st.text_input('あなたの趣味を教えてください。') 
-# condition = st.slider('あなたの今の調子は？', 0, 100, 50)
-
-# 'あなたの趣味：', text
-# 'コンディション：', condition
